@@ -1,6 +1,7 @@
 # SQL Server Reporting Services
-SSRS'de rapor tasarımı. Raporlarda Nortwith veri seti kullanılmıştır.
 
+### __Rutin_raporlar/__
+SSRS'de rapor tasarımı. Raporlarda Nortwith veri seti kullanılmıştır.
 
 ### 1) En Çok Satan Ürün 
 Raporda parametre bulunmamaktadır. Şuana kadar en çok satılan 5 ürün ekranda grafikte okunmaktadır. Raporda parametre yoktur.
